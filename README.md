@@ -25,7 +25,7 @@ To run this project locally, follow these steps:
 ### 1. Clone the Repository
 
 ```sh
-git clone <repository-url>
+git clone https://github.com/0xAupy/Rubik-s-Cube-Tracker.git
 cd project-bolt-sb1-ytzyqse5
 ```
 
