@@ -26,7 +26,7 @@ To run this project locally, follow these steps:
 
 ```sh
 git clone https://github.com/0xAupy/Rubik-s-Cube-Tracker.git
-cd project-bolt-sb1-ytzyqse5
+cd Rubik-s-Cube-Tracker
 ```
 
 ### 2. Install Dependencies
