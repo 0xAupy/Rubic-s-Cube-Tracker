@@ -26,9 +26,6 @@ To run this project locally, follow these steps:
 
 ```sh
 git clone https://github.com/0xAupy/Rubic-s-Cube-Tracker.git
-```
-
-```sh
 cd Rubic-s-Cube-Tracker
 ```
 
